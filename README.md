@@ -119,6 +119,14 @@
 | [Профилирование JS: увидеть самое важное и не утонуть в море чисел](https://youtu.be/rKtWxCYBFP4) - Виктор Хомяков | 28:24 | [:notebook:](https://victor-homyakov.github.io/profile-visualization/) |
 | [Зачем мы переписывали приложение на Elm и кто за это ответит](https://youtu.be/D-4D1f5gyXw) - Виктор Русакович | 32:24 | [:notebook:](https://docs.google.com/presentation/d/1FJabwf0jalNJMZEX6LiLn2RplkzAIb342VFTU5STogg/edit#slide=id.g4fcea6167e_2_48) |
 
+### [MoscowJS #44](https://habr.com/en/company/avito/blog/438850/) (21 февраля 2019)
+
+| Тема | :clock3: | :books: |
+| :--- | :---: | :---: |
+| [Бойлерплейтинг в Авито](https://youtu.be/tOoQ2Z96QCo) - Денис Колесников | 24:12 |  |
+| [Обзор форматов сжатия протокольного уровня в http](https://youtu.be/O2xRgAOnXkg) - Михаил Бусырев | 23:06 |  |
+| [Acceptance testing и BDD с помощью Cucumber](https://youtu.be/CS4LigSZ33U) - Андрей Михайлов | 43:51 |  |
+
 ### [Odessa Frontend Meetup #10](https://odessafrontend.com/10/) (20 февраля 2019)
 | Тема | :clock3: | :books: |
 | :--- | :---: | :---: |
