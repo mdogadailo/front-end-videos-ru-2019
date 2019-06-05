@@ -107,6 +107,14 @@
 | [Гатсби — больше чем генератор сайтов](https://youtu.be/BkliE5w5wnw) - Михаил Новиков | 26:40 | [:notebook:](https://fs.piterjs.org/events/34/novikov.pdf) |
 | [Пиратское радио на NodeJS](https://youtu.be/ubMGsDHDshI) - Григорий Горшков | 27:37 | [:notebook:](https://fs.piterjs.org/events/34/gorshkov.pdf) |
 ## Январь
+### [MoscowJS WebGL Meetup](https://www.moscowjs.ru/event/moscowjs-x-tinkoff-webgl) (31 января 2019)
+
+| Тема | :clock3: | :books: |
+| :--- | :---: | :---: |
+| [WebGL И 2D: Простой как web](https://youtu.be/jfRusB5E1n8) - Александр Коротаев | 23:15 | [:notebook:]() |
+| [Рендерим 3D по-взрослому](https://youtu.be/YyzM0XyVQS8) - Артем Кунец | 35:34 | [:notebook:]() |
+| [Web-графика: Сегодня, завтра и послезавтра](https://youtu.be/O0vBlgjm6P8) - Кирилл Дмитренко | 28:02 | [:notebook:]() |
+
 ### [Piter GraphQL Meetup](https://wriketeam.timepad.ru/event/877048/) (24 января 2019)
 
 | Тема | :clock3: | :books: |
