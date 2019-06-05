@@ -117,6 +117,20 @@
 | [Гатсби — больше чем генератор сайтов](https://youtu.be/BkliE5w5wnw) - Михаил Новиков | 26:40 | [:notebook:](https://fs.piterjs.org/events/34/novikov.pdf) |
 | [Пиратское радио на NodeJS](https://youtu.be/ubMGsDHDshI) - Григорий Горшков | 27:37 | [:notebook:](https://fs.piterjs.org/events/34/gorshkov.pdf) |
 
+### [Я ❤ Frontend](https://events.yandex.ru/events/meetings/yalovefrontend/) (9 февраля 2019)
+
+| Тема | :clock3: | :books: |
+| :--- | :---: | :---: |
+| [О настоящем и будущем браузера](https://youtu.be/6OLVN_gprow) - Константин Крамлих | 38:35 | [:notebook:](https://yadi.sk/i/JH5CHqg91MUcmA) |
+| [Дом света](https://youtu.be/x7hjgkfk3nY) - Сергей Попов | 43:26 | [:notebook:](https://yadi.sk/i/ZoTrr3yp2tLziQ) |
+| [Вебпак, вид сквозь монокль](https://youtu.be/Tg8IVbvturM) - Антон Кастрицкий | 40:42 | [:notebook:](https://yadi.sk/i/9oydqY8iwcY__A) |
+| [Разрываем монолит](https://youtu.be/4hojifgc4wA) - Андрей Мелихов, Роман Бабанов | 34:42 | [:notebook:](https://yadi.sk/i/DI_LU9KyRto3GQ) [:notebook:](https://yadi.sk/i/dNz2iqrX1c_hAQ) |
+| [SVG-фильтры](https://youtu.be/gZPUBDu6DOo) - Юлия Бухвалова | 29:45 | [:notebook:](https://yadi.sk/d/NhnpVXsEgnGcgg) |
+| [Чиним <img />](https://youtu.be/zyzXgjEyi2M) - Дмитрий Махнёв | 37:33 | [:notebook:](https://yadi.sk/i/bsqPZPXjask4NQ) |
+| [Делайте из слона муху](https://youtu.be/JPbFcQMyzaY) - Вадим Макеев | 43:31 | [:notebook:](https://yadi.sk/i/UtVlJJGRQQ7ltA) |
+| [Что стоит за дизайн-системой Яндекс.Маркета?](https://youtu.be/emqXam-SPU8) - Артур Кенжаев | 39:18 | [:notebook:](https://yadi.sk/i/ftGS3nB4x9xLSA) |
+
+
 ### [KyivJS #21](https://dou.ua/calendar/13768/) (7 февраля 2019)
 
 | Тема | :clock3: | :books: |
@@ -126,7 +140,6 @@
 | [Как делать быстро в 2019](https://youtu.be/kNpBcA5GrcU) - Иван Акулов | 39:48 | [:notebook:](https://docs.google.com/presentation/d/1GAc1-lY-uqTnzoIN8lWeQpbaBG3zh_eolAHNwAfqE4U/edit?usp=drive_open&ouid=0) |
 | [npm explore npm](https://youtu.be/RRAQXLaBCEk) - Антон Веринов | 11:01 | [:notebook:](https://drive.google.com/file/d/1Jgej6L44BeaOofCqr5Kwr7kLxivrQDjk/view) |
 | [Эстимирование](https://youtu.be/xu7cBk-STx4) - Григорий Шехет | 7:59 | [:notebook:](https://drive.google.com/file/d/1F-5hei901Z8m26F53gigWlkbjTdgejP7/view) |
-
 
 ## Январь
 ### [MoscowJS WebGL Meetup](https://www.moscowjs.ru/event/moscowjs-x-tinkoff-webgl) (31 января 2019)
