@@ -59,6 +59,16 @@
 | Как мы повышали производительность Angular приложения - Виктор Талецкий | | |
 
 ## Март
+### [KyivJS #22](https://www.meetup.com/KyivJS/events/260053272/) (28 марта 2019)
+
+| Тема | :clock3: | :books: |
+| :--- | :---: | :---: |
+| [Mrr: Make React Reactive](https://youtu.be/9Mv83tUvbxk) :ukraine: - Микола Олексієнко | 38:14 | [:notebook:](http://bit.ly/2WzMzbH) |
+| [Трогательный интерфейс](https://youtu.be/9fg7yfUf9Kc) - Алексей Распопов | 43:37 | [:notebook:](https://alexeyraspopov.github.io/touchy-things/#1) |
+| [Animation in the Air](https://youtu.be/Wqn_kmMpCGc) :ukraine: - Христина Ландвитович | 7:48 | [:notebook:](https://slides.com/cristinalandvytovych/animation/#/) |
+| [Code Ownership](https://youtu.be/ICZsVKgbMe8) - Станислав Слесарев | 10:48 | [:notebook:](http://bit.ly/2Vc9dXA) |
+| [Using WebStorm like a pro](https://youtu.be/dxSQQufii3s) - Максим Донченко | 8:11 |  |
+
 ### [PiterJS #35](https://medium.com/piterjs/announce-35-f11872eb47e6) (21 марта 2019)
 
 | Тема | :clock3: | :books: |
@@ -106,6 +116,18 @@
 | [Скажи ревьюеру “Нет!”](https://youtu.be/FV5xeLwYLNM) - Павел Герасимов | 28:05 | [:notebook:](https://fs.piterjs.org/events/34/gerasimov.pdf) |
 | [Гатсби — больше чем генератор сайтов](https://youtu.be/BkliE5w5wnw) - Михаил Новиков | 26:40 | [:notebook:](https://fs.piterjs.org/events/34/novikov.pdf) |
 | [Пиратское радио на NodeJS](https://youtu.be/ubMGsDHDshI) - Григорий Горшков | 27:37 | [:notebook:](https://fs.piterjs.org/events/34/gorshkov.pdf) |
+
+### [KyivJS #21](https://dou.ua/calendar/13768/) (7 февраля 2019)
+
+| Тема | :clock3: | :books: |
+| :--- | :---: | :---: |
+| [Making Vue app reactive with RxJS](https://youtu.be/Ny1_s9OHg1M) - Наталья Теплухина | 34:24 |  |
+| [Yet another JSON RPC library?](https://youtu.be/84Y5n32tX5E) - Виктор Турский | 34:22 | [:notebook:](https://docs.google.com/presentation/d/1bvlsG5nBEVwMGm7rBh4zmfrGDLUIjpv_t4rxFS2_uMw/edit?usp=drive_open&ouid=0) |
+| [Как делать быстро в 2019](https://youtu.be/kNpBcA5GrcU) - Иван Акулов | 39:48 | [:notebook:](https://docs.google.com/presentation/d/1GAc1-lY-uqTnzoIN8lWeQpbaBG3zh_eolAHNwAfqE4U/edit?usp=drive_open&ouid=0) |
+| [npm explore npm](https://youtu.be/RRAQXLaBCEk) - Антон Веринов | 11:01 | [:notebook:](https://drive.google.com/file/d/1Jgej6L44BeaOofCqr5Kwr7kLxivrQDjk/view) |
+| [Эстимирование](https://youtu.be/xu7cBk-STx4) - Григорий Шехет | 7:59 | [:notebook:](https://drive.google.com/file/d/1F-5hei901Z8m26F53gigWlkbjTdgejP7/view) |
+
+
 ## Январь
 ### [MoscowJS WebGL Meetup](https://www.moscowjs.ru/event/moscowjs-x-tinkoff-webgl) (31 января 2019)
 
