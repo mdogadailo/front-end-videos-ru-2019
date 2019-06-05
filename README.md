@@ -40,22 +40,16 @@
 
 | Тема | :clock3: | :books: |
 | :--- | :---: | :---: |
+| [PiterJS #38](https://medium.com/piterjs/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-piterjs-38-62ee89af52a5) (20 июня 2019) |
 | i18n без боли - Антон Ляпцев | | |
 | Максим Шкарбалюк - Типизация Rest API | | |
 | Алексей Щербаков - Качество кода: внедрение проверок в legacy | | |
-
-### [Frontend Meetup#6](https://www.meetup.com/DEVNSK/events/261282461/) (6 июня 2019)
-
-| Тема | :clock3: | :books: |
-| :--- | :---: | :---: |
+| [Frontend Meetup#6](https://www.meetup.com/DEVNSK/events/261282461/) (6 июня 2019) | 
+| **Тема** | :clock3: | :books: |
 | Eslint против вашего техдолга - Глеб Фокин | | |
 | Эффективное тестирование FE проектов - Максим Соснов | | |
-
-## Май
-### [MinskJS Meetup #6](https://minskjs.timepad.ru/event/962267/) (23 мая 2019)
-
-| Тема | :clock3: | :books: |
-| :--- | :---: | :---: |
+| [MinskJS Meetup #6](https://minskjs.timepad.ru/event/962267/) (23 мая 2019) |
+| **Тема** | :clock3: | :books: |
 | [API браузеров, о которых вы могли не слышать](https://youtu.be/0N6mjg7ON1Q) - Антон Власик | 25:50 | [:notebook:](https://drive.google.com/file/d/1Ufm9cJgrfy__GFPsyKEDHall1Qciqrzv/view) |
 | [Как построить дом, если ты — веб-воркер?](https://youtu.be/v3NtYdNcRNs) - Кирилл Чугаинов | 28:36 | [:notebook:](https://chugainov.github.io/web-worker/) |
 | [Тяжёлое бремя времени](https://youtu.be/Dylf_bfg6qg) - Виктор Хомяков | 27:54 | [:notebook:](https://victor-homyakov.github.io/burden-of-time/) |
