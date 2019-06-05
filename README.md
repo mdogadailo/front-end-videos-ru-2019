@@ -20,8 +20,7 @@
   * [Tver.io Poetry Meetup](#tverio-poetry-meetup-21-марта-2019)
   * [Odessa Frontend Meetup #11](#odessa-frontend-meetup-11-17-марта-2019)
   * [Krasnodar Frontend: Meetup #5](#krasnodar-frontend-meetup-5-16-марта-2019)
-  * [ReactRussia #1](#reactrussia_1_16-марта-2019)
-  
+  * [ReactRussia #1](#reactrussia-1-16-марта-2019)
 * [Февраль](#февраль)
   * [MinskJS Meetup #5](#minskjs-meetup-5-21-февраля-2019)
   * [MoscowJS #44](#moscowjs-44-21-февраля-2019)
