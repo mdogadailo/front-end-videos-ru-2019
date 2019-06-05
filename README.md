@@ -20,6 +20,8 @@
   * [Tver.io Poetry Meetup](#tverio-poetry-meetup-21-марта-2019)
   * [Odessa Frontend Meetup #11](#odessa-frontend-meetup-11-17-марта-2019)
   * [Krasnodar Frontend: Meetup #5](#krasnodar-frontend-meetup-5-16-марта-2019)
+  * [ReactRussia #1](#reactrussia_1_16-марта-2019)
+  
 * [Февраль](#февраль)
   * [MinskJS Meetup #5](#minskjs-meetup-5-21-февраля-2019)
   * [MoscowJS #44](#moscowjs-44-21-февраля-2019)
@@ -143,6 +145,14 @@
 | [Redux в Angular: Битва Давида и Голиафа](https://youtu.be/XmOnUbziGPg) - Александр Урденко | 39:30 | [:notebook:](https://yadi.sk/i/V9MLBuiB-RPNeQ) |
 | [Как (не)удовлетворить Google PageSpeed](https://youtu.be/cl8VhCmpDPo) - Даниил Крохмаль | 40:16 | [:notebook:](https://yadi.sk/i/kyKsnQlqy_ReWg) |
 | [Рендеринг PDF: история одного продукта и его ключевой функции](https://youtu.be/_CFK9NIvg-k) - Сергей Авдяков | 39:34 | [:notebook:](https://yadi.sk/i/TwvCfauAkR1P8A) |
+
+### [ReactRussia #1](https://reactrussia.timepad.ru/event/894987/) (16 марта 2019)
+| Тема | :clock3: | :books: |
+| :--- | :---: | :---: |
+| [Путь фронтенда Одноклассников от истоков до наших дней](https://youtu.be/hcboJotsTsA) - Олег Коровин | 14:45 | [:notebook:](https://djmadcow.github.io/react-russia-meetup-1/assets/player/KeynoteDHTMLPlayer.html) |
+| [Под капотом React Hooks](https://youtu.be/3Ku62Nh1mhk) - Дмитрий Злыгин | 38:51 | [:notebook:](https://www.slideshare.net/secret/o7TqRRUdbdezGa) |
+| [Компоненты для компонентов](https://youtu.be/9fEBZfhoJd8) - Лена Рашкован | 19:20 | [:notebook:](https://github.com/alatielle/react-russia-meetup-talk) |
+
 ## Февраль
 ### [MinskJS Meetup #5](https://minskjs.timepad.ru/event/892796/) (21 февраля 2019)
 
