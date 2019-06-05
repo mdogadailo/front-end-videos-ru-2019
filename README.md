@@ -40,6 +40,15 @@
 | Машинное обучение на JS. С чего начать и куда идти - Влад Борш |  |  |
 | Путь к WebGL через THREE.js - Андрей Дьяков |  |  |
 | Как пройти собеседование по js? И зачем? vol. 2 - Юрий Федоренко |  |  |
+
+### [Tver.io Open-Source Meetup](https://www.meetup.com/tverio/events/260568718/) (10 мая 2019)
+
+| Тема | :clock3: | :books: |
+| :--- | :---: | :---: |
+| [Продвижение опенсорс-проектов](https://youtu.be/DU0LiH61PnQ) - Андрей Ситник | 44:53 | [:notebook:](https://slides.com/ai/promote#/) |
+| [Вебпак, вид сквозь монокль](https://youtu.be/qcj2bX4sB9E) - Антон Кастрицкий | 48:18 |  |
+| [В поисках Стилевого Грааля](https://youtu.be/b7vBKp8D0vs) - Артур Кенжаев | 34:23 | [:notebook:](http://tver.io/meetup/2019/05-open-source/kenzhaev/assets/player/KeynoteDHTMLPlayer.html) |
+
 ## Апрель
 ### [PiterJS tour#1](https://medium.com/piterjs/tour-1-b4a4bf911f56) (26 апреля 2019)
 
@@ -76,6 +85,15 @@
 | [Выгорание волонтеров: что это такое, почему происходит и как с этим работать](https://youtu.be/jX91TiPihv0) - Любовь Гулько | 32:56 | [:notebook:](https://fs.piterjs.org/events/35/gulko.pdf) |
 | [Психология для айтишников: про выгорание и заботу о себе](https://youtu.be/qXX1iw74jfE) - Дима Семьюшкин | 35:11 | [:notebook:](https://fs.piterjs.org/events/35/semyushkin.pdf) |
 | [Будете гореть — горите](https://youtu.be/Jnm_BJVxz7E) - Евгений Кот | 37:13 | [:notebook:](https://fs.piterjs.org/events/35/kot.pdf) |
+
+### [Tver.io Poetry Meetup](https://www.meetup.com/tverio/events/258900957) (21 марта 2019)
+
+| Тема | :clock3: | :books: |
+| :--- | :---: | :---: |
+| [Будет ли существовать профессия веб-разработчик в будущем?](https://youtu.be/1xerBSAwMEI) - Дарья Пушкарская | 33:27 | [:notebook:](http://tver.io/meetup/2019/03-poetry/slides/2019-tver-io-poetry-pushkarskaya.pdf) |
+| [Как сделать быстрый сайт и полюбить SEO](https://youtu.be/MRAM5ooFfQo) - Самат Галимов | 22:21 | [:notebook:](http://tver.io/meetup/2019/03-poetry/slides/2019-tver-io-poetry-galimov.pdf) |
+| [Experimenting with an Unikernel](https://youtu.be/apPFkwxs1Ig) - Павел Аргентов | 38:23 | [:notebook:](http://tver.io/meetup/2019/03-poetry/slides/2019-tver-io-poetry-argentov.pdf) |
+
 
 ### [Odessa Frontend Meetup #11](https://odessafrontend.com/11/) (17 марта 2019)
 | Тема | :clock3: | :books: |
