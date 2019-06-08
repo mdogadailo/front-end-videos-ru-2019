@@ -8,6 +8,7 @@
   * [Frontend Meetup#6](#frontend-meetup6-6-июня-2019)
   * [UWDC 2019](#uwdc-2019-1-июня-2019)
 * [Май](#май)
+  * [JavaScript Evening](#javascript-evening-29-мая-2019)
   * [MinskJS Meetup #6](#minskjs-meetup-6-23-мая-2019)
   * [PiterJS #37](#piterjs-37-20-мая-2019)
   * [Odessa Frontend Meetup #12](#odessa-frontend-meetup-12-18-мая-2019)
@@ -65,6 +66,15 @@
 | [Будет ли существовать профессия веб-разработчика в будущем?](https://youtu.be/0Ol1XHk3vsA?t=9190) - Дарья Пушкарская | 46:50 | |
 
 ## Май
+
+### [JavaScript Evening](https://dins.timepad.ru/event/978543/) (29 мая 2019)
+
+| Тема | :clock3: | :books: |
+| :--- | :---: | :---: |
+| [Будущее React](https://youtu.be/XbNNtZeArsE) - Дмитрий Злыгин | 43:36 |  |
+| [Баги, которые вы никогда не встретите](https://youtu.be/3KJpyGoElQQ) - Тим Чаптыков | 29:06 |  |
+
+
 ### [MinskJS Meetup #6](https://minskjs.timepad.ru/event/962267/) (23 мая 2019)
 
 | Тема | :clock3: | :books: |
