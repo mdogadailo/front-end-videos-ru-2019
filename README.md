@@ -17,6 +17,7 @@
   * [PiterJS tour#1](#piterjs-tour1-26-апреля-2019)
   * [Mobile JS](#mobile-js-18-апреля-2019)
   * [PiterJS #36](#piterjs-36-18-апреля-2019)
+  * [Storm The Front Meetup #5](#storm-the-front-meetup-5-13-апреля-2019)
 * [Март](#март)
   * [KyivJS #22](#kyivjs-22-28-марта-2019)
   * [PiterJS #35](#piterjs-35-21-марта-2019)
@@ -133,6 +134,16 @@
 | Фронтенд-фреймворки в legacy - Александр Аваков | | |
 | Интернационализация веб-приложений. Краткий путеводитель по граблям. - Алексей Остапенко | | |
 | Как мы повышали производительность Angular приложения - Виктор Талецкий | | |
+
+### [Storm The Front Meetup #5](https://communities.by/events/storm-the-front-meetup-5) (13 апреля 2019)
+
+| Тема | :clock3: | :books: |
+| :--- | :---: | :---: |
+| [Нейронные сети на JavaScript, почему бы и нет?](https://youtu.be/b8KuVGwcaG4) - Игорь Нестереня | 27:43 | [:notebook:](https://drive.google.com/file/d/16JHpphq1RTB4OhQujoP-piiAcGp5oidM/view) |
+| [Не для любителей copy-paste. А также еще один способ автоматизации неизбежного copy-paste в работе.](https://youtu.be/hiQ3ujcjfd8) - Мария Кравченко | 20:55 | [:notebook:](https://slides.com/maryiakrauchanka/deck#/) |
+| [Why Redux sucks?](https://youtu.be/YDs5yQhyrhg) - Антон Разгуляев  | 27:56 | [:notebook:](https://slides.com/avernikoz/deck-1#/) |
+| [Приключения обезьяны, таракашек и панического монстра](https://youtu.be/WB7zDr2SCUc) - Владимир Рубин | 32:09 | [:notebook:](https://drive.google.com/file/d/1IIOuDVj9VUfrhnDsueRqSR2iwxHJD-b_/view) |
+| [Оптимизации в web](https://youtu.be/vw5wUcj7U-0) - Михаил Деркач | 22:44 | [:notebook:](https://drive.google.com/file/d/1s2ePXjEqE0wWsy5bxKgA8Z8XhbV5N2hq/view) |
 
 ## Март
 ### [KyivJS #22](https://www.meetup.com/KyivJS/events/260053272/) (28 марта 2019)
