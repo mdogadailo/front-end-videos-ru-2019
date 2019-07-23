@@ -14,10 +14,12 @@
   * [UWDC 2019](#uwdc-2019-1-июня-2019)
 * [Май](#май)
   * [JavaScript Evening](#javascript-evening-29-мая-2019)
+  * [Simferopol Frontend #3](#simferopol-frontend-3-25-мая-2019)
   * [MinskJS Meetup #6](#minskjs-meetup-6-23-мая-2019)
   * [PiterJS #37](#piterjs-37-20-мая-2019)
   * [Odessa Frontend Meetup #12](#odessa-frontend-meetup-12-18-мая-2019)
   * [moscowcss #12](#moscowcss-12-14-мая-2019)
+  * [Zlit Tech](#zlit-tech-12-мая-2019)
   * [Tver.io Open-Source Meetup](#tverio-open-source-meetup-10-мая-2019)
 * [Апрель](#апрель)
   * [PiterJS tour#1](#piterjs-tour1-26-апреля-2019)
@@ -27,6 +29,7 @@
 * [Март](#март)
   * [KyivJS #22](#kyivjs-22-28-марта-2019)
   * [moscowcss #11](#moscowcss-11-25-марта-2019)
+  * [Simferopol Frontend #2](#simferopol-frontend-2-22-марта-2019)
   * [PiterJS #35](#piterjs-35-21-марта-2019)
   * [Tver.io Poetry Meetup](#tverio-poetry-meetup-21-марта-2019)
   * [Odessa Frontend Meetup #11](#odessa-frontend-meetup-11-17-марта-2019)
@@ -96,6 +99,11 @@
 ```43:36``` - [Будущее React](https://youtu.be/XbNNtZeArsE) - Дмитрий Злыгин  
 ```29:06``` - [Баги, которые вы никогда не встретите](https://youtu.be/3KJpyGoElQQ) - Тим Чаптыков  
 
+#### [Simferopol Frontend #3](https://simferopol-frontend.timepad.ru/event/977505/) (25 мая 2019)  
+```33:07``` - [Монорепозитории и где они обитают](https://youtu.be/yW2pg7__a0o) - Михаил Трошев  
+```21:32``` - [Houdini — полная власть над браузером](https://youtu.be/wux_KTf8NY) - Илья Гриненко  
+```32:29``` - [Поиск глазами браузера](https://youtu.be/Fx2o3lV-eD4) - Руслан Муфтиев  
+
 #### [MinskJS Meetup #6](https://minskjs.timepad.ru/event/962267/) (23 мая 2019)  
 ```25:50``` - [API браузеров, о которых вы могли не слышать](https://youtu.be/0N6mjg7ON1Q) - Антон Власик  
 ```28:36``` - [Как построить дом, если ты — веб-воркер?](https://youtu.be/v3NtYdNcRNs) - Кирилл Чугаинов  
@@ -114,6 +122,18 @@
 ```28:20``` - [Великие художники воруют](https://youtu.be/yyUpfhR5ScE) - Алексей Охрименко  
 ```40:38``` - [Рабочая эффективность: как я пытался обуздать свой день](https://youtu.be/0RykI_wj4mU) - Игорь Лесневский  
 ```14:57``` - [Про SVG простым и понятным языком](https://youtu.be/Bf8bTOS0sNI) - Никита Борисов  
+
+#### [Zlit Tech](https://moscowcss.timepad.ru/event/966798/) (12 мая 2019)  
+```38:19``` - [Why The Future is GraphQL?](https://youtu.be/yzD56zISw-w) - Иван Гончаров  
+```37:20``` - [GraphQL API: Patterns](https://youtu.be/om5PzPaWqBc) - Андрей Чиж  
+```49:12``` - [5 подходов построения GraphQL-схем](https://youtu.be/RmGxUfmksck) - Павел Черторогов  
+```36:44``` - [Где и как вы еще не используете GraphQL](https://youtu.be/gJKTdiIjMPU) - Александр Тарасенко  
+```33:43``` - [Add types for this please](https://youtu.be/aWle5mDDrpc) - Михайло Гавеля  
+```26:20``` - [GraphQL + Third Party API](https://youtu.be/j1lA9uRNAVU) - Роман Сенин  
+```11:03``` - [Local state management with Apollo](https://youtu.be/Bl1UurAiNOI) - Виталий Паршиков  
+```09:29``` - [Graphql, контракты и выгорание](https://youtu.be/SHeyVuEq2os) - Антон Феоктистов  
+```19:04``` - [GraphQL tools](https://youtu.be/bxFr7fEIgq4) - Никита Галкин  
+```53:49``` - [От заката до рассвета](https://youtu.be/4hqC8imjVXo) - Максим Безуглый  
 
 #### [Tver.io Open-Source Meetup](https://www.meetup.com/tverio/events/260568718/) (10 мая 2019)  
 ```44:53``` - [Продвижение опенсорс-проектов](https://youtu.be/DU0LiH61PnQ) - Андрей Ситник  
@@ -158,6 +178,13 @@
 ```31:20``` - [Давайте не будем ждать?](https://youtu.be/h3Do8UZAAWU) - Алексей Попков  
 ​```30:55``` - [Тестирование фронтенда для разработчиков​](https://youtu.be/mSWMSmaGrEo) - Александра Шинкевич  
 ```32:03``` - [MacOS Driven Development](https://youtu.be/w39AWcIMbZ4) - Никита Дубко  
+
+#### [Simferopol Frontend #2](https://simferopol-frontend.timepad.ru/event/930887/) (22 марта 2019)  
+```14:20``` - [Apollo и GraphQL. Что это такое, и как начать этим пользоваться?](https://youtu.be/H7Ad1d2-UyA?t=250) - Илья Гриненко  
+```12:35``` - [Вики форматтер на JS](https://youtu.be/H7Ad1d2-UyA?t=1155) - Айсель Шерфединова  
+```16:18``` - [Погружаясь в LEGOси](https://youtu.be/H7Ad1d2-UyA?t=2164) - Евгений Масленков  
+```17:38``` - [Светлое будущее @BEM-React](https://youtu.be/H7Ad1d2-UyA?t=3192) - Василий Логиневский  
+```49:22``` - [Яндекс.Ясли](https://youtu.be/H7Ad1d2-UyA?t=4296) - Александр Шлейко  
 
 #### [PiterJS #35](https://medium.com/piterjs/announce-35-f11872eb47e6) (21 марта 2019)  
 ```32:56``` - [Выгорание волонтеров: что это такое, почему происходит и как с этим работать](https://youtu.be/jX91TiPihv0) - Любовь Гулько  
