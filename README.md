@@ -3,6 +3,8 @@
 
 ## События
 
+* [Август](#август)
+  * [WebAssembly Moscow meetup #2](#webassembly-moscow-meetup-2-1-августа-2019)
 * [Июль](#июль)
   * [Panda Frontend Meetup](#panda-frontend-meetup-22-6-июля-2019)
   * [ok.tech: frontend meetup ](#oktech-frontend-meetup-2-июля-2019)
@@ -48,6 +50,12 @@
   * [PiterJS #33](#piterjs-33-17-января-2019)
 
 #
+
+## Август  
+##### [WebAssembly Moscow meetup #2](https://webassembly-moscow.timepad.ru/event/1025337/) (1 августа 2019)  
+```53:54``` - [Webassembly SPA фреймворки. Обзор и примеры на основе blazor](https://youtu.be/EaJHp-c_HVkt=670) - Илья Черторыльский  
+```36:13``` - [Компилятор Lightbeam](https://youtu.be/EaJHp-c_HVk?t=4220) - Николай Вольф  
+```61:30``` - [WASI: An API for non-Web WebAssembly](https://youtu.be/EaJHp-c_HVk?t=) - Dan Gohman  
 
 ## Июль  
 #### [Panda Frontend Meetup #22](https://panda-meetup.ru/msk-frontend-meetup-4) (6 июля 2019)  
@@ -176,7 +184,7 @@
 #### [moscowcss #11](https://moscowcss.timepad.ru/event/922360/) (25 марта 2019)  
 ```25:23``` - [Как приручить токены](https://youtu.be/dNie86pSw24) - Виктория Дубровская, Георгий Бузин  
 ```31:20``` - [Давайте не будем ждать?](https://youtu.be/h3Do8UZAAWU) - Алексей Попков  
-​```30:55``` - [Тестирование фронтенда для разработчиков​](https://youtu.be/mSWMSmaGrEo) - Александра Шинкевич  
+```30:55``` - [Тестирование фронтенда для разработчиков](https://youtu.be/mSWMSmaGrEo) - Александра Шинкевич  
 ```32:03``` - [MacOS Driven Development](https://youtu.be/w39AWcIMbZ4) - Никита Дубко  
 
 #### [Simferopol Frontend #2](https://simferopol-frontend.timepad.ru/event/930887/) (22 марта 2019)  
