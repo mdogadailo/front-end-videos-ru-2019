@@ -17,6 +17,7 @@
 * [Май](#май)
   * [JavaScript Evening](#javascript-evening-29-мая-2019)
   * [Simferopol Frontend #3](#simferopol-frontend-3-25-мая-2019)
+  * [HolyJS 2019 Piter](#holyjs-2019-piter-24-25-мая-2019)
   * [MinskJS Meetup #6](#minskjs-meetup-6-23-мая-2019)
   * [PiterJS #37](#piterjs-37-20-мая-2019)
   * [Odessa Frontend Meetup #12](#odessa-frontend-meetup-12-18-мая-2019)
@@ -111,6 +112,23 @@
 ```33:07``` - [Монорепозитории и где они обитают](https://youtu.be/yW2pg7__a0o) - Михаил Трошев  
 ```21:32``` - [Houdini — полная власть над браузером](https://youtu.be/wux_KTf8NY) - Илья Гриненко  
 ```32:29``` - [Поиск глазами браузера](https://youtu.be/Fx2o3lV-eD4) - Руслан Муфтиев  
+
+#### [HolyJS 2019 Piter](https://2019.holyjs-piter.ru/) (24-25 мая 2019)  
+```57:49``` - [ApolloClient или Relay с фрагментами, «волосатый» GraphQL и TypeScript](https://youtu.be/VdoPraj0QqU) - Павел Черторогов  
+```55:48``` - [Очень странное тестирование](https://youtu.be/H-cBhNMxlCw) - Назим Гафаров  
+```53:23``` - [Протокол Chrome DevTools](https://youtu.be/z0TP-9QSdHI) - Алексей Козятинский  
+```55:11``` - [Реактивная печать PDF](https://youtu.be/T5nwBqFGtOM) - Виталий Слободин  
+```56:16``` - [Создание доступных уведомлений, алёртов и других асинхронных элементов](https://youtu.be/XKBjrBxqsfE) - Сергей Кригер  
+```56:06``` - [Identity verification with ML](https://youtu.be/wawekVzgqmc) - Аркадий Пильгук  
+```53:56``` - [Подход к типобезопасной разработке на TypeScript](https://youtu.be/_-tSzfGkrew) - Дмитрий Харитонов  
+```42:39``` - [Продвижение опенсорс-проектов](https://youtu.be/SbgqR79nPd0) - Андрей Ситник  
+```57:09``` - [Алгоритмы на графах](https://youtu.be/Q61wpfFnYYo) - Марина Миронович  
+```54:56``` - [Google Closure Compiler — принцип работы и использование в современном фронтенде](https://youtu.be/TodYDWUKlWI) - Ильяс Кабиров  
+```60:24``` - [Обработка озера данных на Node.js в serverless-архитектуре](https://youtu.be/FOCDEk-OLTI) - Николай Матвиенко  
+```47:16``` - [Как и зачем я пишу свой статический типизатор](https://youtu.be/GIHrPm_YAIc) - Артём Кобзарь  
+```59:47``` - [Ламповый CI/CD. Как и с чего начать](https://youtu.be/CwU-OiS_PEQ) - Илья Климов  
+```63:08``` - [Я создал Франкенштейна: 3 истории миграции](https://youtu.be/CaP5eAylYpI) - Денис Мишунов  
+```60:11``` - [Node.js: так же быстро, выше, сильнее с GraalVM](https://youtu.be/sKS4A9I8xb8) - Олег Шелаев  
 
 #### [MinskJS Meetup #6](https://minskjs.timepad.ru/event/962267/) (23 мая 2019)  
 ```25:50``` - [API браузеров, о которых вы могли не слышать](https://youtu.be/0N6mjg7ON1Q) - Антон Власик  
